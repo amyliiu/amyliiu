@@ -5,7 +5,7 @@ body {
   margin: 0%;
   padding: 0%;
   width: 100vw;
-  background: var(--bg-color);
+  background: url('../dist/assets/background.jpg') center;
   color: var(--text-color);
   max-width: 100vw;
   overflow-x: hidden;
