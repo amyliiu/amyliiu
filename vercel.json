@@ -4,9 +4,6 @@
       "env": {
         "NODE_ENV": "production"
       },
-      "commands": [
-        "npm install -g gitfolio",
-        "gitfolio run ."
-      ]
+      "command": "npm install -g gitfolio && gitfolio run"
     }
   }
