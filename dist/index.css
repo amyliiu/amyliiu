@@ -568,7 +568,7 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("../public/background.jpg");
+    url("../assets/background.jpg");
   --background-background: #fff;
 }
 
