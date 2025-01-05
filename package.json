@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "build": "npm install -g gitfolio",
+    "start": "gitfolio run"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "author": "Amy Liu",
+  "license": "ISC"
+}
